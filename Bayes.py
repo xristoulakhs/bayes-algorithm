@@ -2,7 +2,7 @@ import os
 import csv
 
 
-my_path = 'C:\\Users\\georg\\OneDrive - aueb.gr\\artificial_intelligence\\assignment_2\\aclImdb'
+my_path = 'C:\\Users\\...'
 
 def stop_words_to_list():
     lst = []
